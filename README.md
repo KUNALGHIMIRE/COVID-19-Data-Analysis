@@ -14,7 +14,15 @@ This project analyzes global COVID-19 data using Python. It explores trends in c
 - **Visualizations**: Line charts, bar charts, stacked area charts, and correlation heatmaps for insights.
 
 ## Folder Structure
-<pre> ``` COVID-19-Data-Analysis/ │ ├── data/ # CSV datasets used for analysis ├── notebooks/ # Jupyter notebooks with analysis code├── README.md # Project documentation └── requirements.txt # Python dependencies ``` </pre>
+## Folder Structure
+<pre>
+COVID-19-Data-Analysis/
+├── data/         # CSV datasets used for analysis
+├── notebooks/    # Jupyter notebooks with analysis code
+├── README.md     # Project documentation
+└── requirements.txt # Python dependencies
+</pre>
+
 
 
 ## Key Insights
