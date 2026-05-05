@@ -62,7 +62,7 @@ The analysis produced several meaningful global health insights:
 - Visualization and interpretation of pandemic waves over time  
 - Correlation analysis between confirmed, recovered, and death cases to understand disease dynamics
 
-🧠## 🧠 Engineering / Data Thinking Highlights
+## Engineering / Data Thinking Highlights
 
 This project emphasizes strong data engineering and analytical thinking:
 
@@ -71,14 +71,16 @@ This project emphasizes strong data engineering and analytical thinking:
 - Transformed raw health data into decision-ready insights for interpretation and analysis  
 - Applied statistical reasoning beyond visualization to ensure deeper analytical understanding  
 
+
 🗂️ Project Structure
+```
 COVID-19-Data-Analysis/
 ├── data/              # Raw datasets
 ├── notebooks/         # Jupyter analysis notebooks
 ├── visuals/           # Generated graphs (optional)
 ├── README.md          # Project documentation
 └── requirements.txt   # Dependencies
-
+```
 ## 🛠️ Tech Stack
 
 The project is built using a Python-based data science ecosystem:
