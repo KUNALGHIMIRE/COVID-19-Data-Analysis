@@ -91,3 +91,23 @@ The project is built using a Python-based data science ecosystem:
 - **Matplotlib** for data visualization  
 - **Seaborn** for advanced statistical plotting  
 - **Jupyter Notebook** for interactive analysis and experimentation
+
+## 📸 Project Visualizations
+
+The following visualizations represent key insights extracted from the COVID-19 dataset:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d4d3e592-c302-4b03-a181-f944f8303e6b" width="750" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72f44f7c-abed-4a7d-abae-25ccee44555e" width="750" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f675e1f0-e677-42f7-a7c9-6e7b59b01f9c" width="750" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e925afed-fa92-4c8e-baf0-2b5f237d8ab0" width="750" />
+</p>
